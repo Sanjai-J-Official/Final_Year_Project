@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1747583891,
+        "companyName": "Google",
+        "jobTitle": "developer",
+        "jobDescription": "Anything",
+        "jobType": "Part-time",
+        "workMode": "Remote",
+        "experience": "1",
+        "package": "15",
+        "location": "Bengaluru",
+        "eligibleBranches": [
+            "AI & DS"
+        ],
+        "driveDate": "2025-12-12",
+        "positions": "10",
+        "status": "upcoming",
+        "postedDate": "2025-05-18 15:58:11"
+    },
+    {
+        "id": 1747594227,
+        "companyName": "Microsoft ",
+        "jobTitle": "Student intern ",
+        "jobDescription": "intership on Microsoft ",
+        "jobType": "Part-time",
+        "workMode": "Remote",
+        "experience": "1",
+        "package": "12",
+        "location": "USA",
+        "eligibleBranches": [
+            "AI & DS",
+            "CSE",
+            "ECE"
+        ],
+        "driveDate": "2025-05-20",
+        "positions": "10000",
+        "status": "upcoming",
+        "postedDate": "2025-05-18 18:50:27"
+    },
+    {
+        "id": 1747594661,
+        "companyName": "TCS",
+        "jobTitle": "developer",
+        "jobDescription": "CAMPUSMATE",
+        "jobType": "Part-time",
+        "workMode": "Remote",
+        "experience": "8",
+        "package": "98",
+        "location": "UK",
+        "eligibleBranches": [
+            "AI & DS",
+            "CSE",
+            "ECE",
+            "MECH",
+            "CIVIL",
+            "AGRI"
+        ],
+        "driveDate": "1111-11-11",
+        "positions": "4",
+        "status": "upcoming",
+        "postedDate": "2025-05-18 18:57:41"
+    }
+]

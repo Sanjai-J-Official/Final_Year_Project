@@ -1,0 +1,52 @@
+/*
+Theme Name:index
+Theme URI: http://example.com/my-custom-theme
+Author: Your Name
+Author URI: http://example.com
+Description: A custom theme created for my website.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/old-licenses/gpl-2.0.php
+Text Domain: my-custom-theme
+*/
+
+/* Reset & Base Styles */
+
+/* Custom animations */
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+/* Apply fade-in animation to main content */
+main {
+    animation: fadeIn 0.5s ease-in;
+}
+
+/* Custom focus styles */
+input:focus {
+    box-shadow: 0 0 0 3px rgba(38, 75, 133, 0.804);
+}
+
+/* Error state transitions */
+.error-message {
+    transition: all 0.3s ease;
+}
+
+/* Button hover effects */
+button {
+    transform: translateY(0);
+    transition: all 0.2s ease;
+}
+
+button:hover {
+    transform: translateY(-1px);
+}
+
+/* Responsive adjustments */
+@media (max-width: 640px) {
+    .container {
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+} 
